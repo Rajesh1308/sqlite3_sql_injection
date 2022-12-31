@@ -15,5 +15,10 @@
   <h2>Step 1 : </h2>
   <p>   Clone the repository</p><br>
  <img src='https://user-images.githubusercontent.com/59536508/210131281-2df6ab9b-e2c3-49d4-9818-75c350a77290.png'>
+  
+  <h2>Step 2 : </h2>
+  <p>   Open the directory and execute the program sql_injection.py</p>
+  <img src='https://user-images.githubusercontent.com/59536508/210131484-c374b7d5-c29b-472f-aa71-9b9109986cbe.png'>
 </div>
+
 
