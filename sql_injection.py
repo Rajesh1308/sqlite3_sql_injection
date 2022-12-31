@@ -28,8 +28,7 @@ def pass_check(uname,passwd):
     data = c.execute(sql_command)
     
     for item in data:
-        print(item[0])
-        print(uname)
+        
         if item[0] == 1:
             print(item[0])
             clr_scr()
