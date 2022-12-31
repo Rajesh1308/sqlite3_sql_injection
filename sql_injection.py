@@ -23,12 +23,15 @@ def clr_scr():
 def pass_check(uname,passwd):
     conn = sqlite3.connect("Passdatabase.db")
     c = conn.cursor()
-    sql_command = "SELECT * FROM logins WHERE username='"+uname +"' AND passwords='"+passwd+"'"
+    temp = uname
+    sql_command = "SELECT COUNT(*) FROM logins WHERE username='"+ uname +"' AND passwords='"+passwd+"'"
     data = c.execute(sql_command)
     
     for item in data:
         print(item[0])
-        if item[0] == uname:
+        print(uname)
+        if item[0] == 1:
+            print(item[0])
             clr_scr()
             master()
 
@@ -56,8 +59,8 @@ if __name__ == '__main__':
     print("Press any enter to continue...")
     input()
     clr_scr()
-    unam = input("Enter user name  : ")
+    uname = input("Enter user name  : ")
     passwd = input("Enter password  : ")
-    pass_check(unam,passwd)
+    pass_check(uname,passwd)
 
 
