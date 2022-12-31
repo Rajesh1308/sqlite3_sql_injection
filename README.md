@@ -23,9 +23,9 @@
   <h2>Step 3 : </h2>
   <p>Press Enter and you will be asked for username and password</p>
   <p>This application has an "admin" account. So enter the username and along with that add the payload and a random password</p>
-  <h6>Payload  :   ' OR 1=1 -- </h6>
-  <img src='https://user-images.githubusercontent.com/59536508/210131658-513125e7-2f87-4217-a2e3-395dacb78d64.png'>
-  
+  <h6>Payload  :   '-- </h6>
+  <img src='https://user-images.githubusercontent.com/59536508/210132251-caa3621f-78f1-4051-983e-df0a6c45e733.png'>
+
   
 
 </div>
