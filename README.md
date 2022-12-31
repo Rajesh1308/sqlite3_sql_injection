@@ -13,7 +13,7 @@
 </div>
 <div>
   <h2>Step 1 : </h2>
-  <p>   Clone the repository</p>
-  ![Cloning_to_desktop](https://user-images.githubusercontent.com/59536508/210131281-2df6ab9b-e2c3-49d4-9818-75c350a77290.png)
+  <p>   Clone the repository</p><br>
+ <img src='https://user-images.githubusercontent.com/59536508/210131281-2df6ab9b-e2c3-49d4-9818-75c350a77290.png'>
 </div>
 
