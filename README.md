@@ -19,6 +19,15 @@
   <h2>Step 2 : </h2>
   <p>   Open the directory and execute the program sql_injection.py</p>
   <img src='https://user-images.githubusercontent.com/59536508/210131484-c374b7d5-c29b-472f-aa71-9b9109986cbe.png'>
+  
+  <h2>Step 3 : </h2>
+  <p>Press Enter and you will be asked for username and password</p>
+  <p>This application has an "admin" account. So enter the username and along with that add the payload and a random password</p>
+  <h6>Payload  :   ' OR 1=1 -- </h6>
+  <img src='https://user-images.githubusercontent.com/59536508/210131658-513125e7-2f87-4217-a2e3-395dacb78d64.png'>
+  
+  
+
 </div>
 
 
